@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm yamakeeeeeeeeen</h1>
 
-<!--
-**yamakeeeeeeeeen/yamakeeeeeeeeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">🌱 I’m currently learning <b>NEXT.js, Typescript, GraphQL</b></p>
+<p align="center">📫 How to reach me <b>yamakeeeeeeeeen@gmail.com</b></p>
 
-Here are some ideas to get you started:
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+<a href="https://reactjs.org/" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://graphql.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+</a>
+<a href="https://www.electronjs.org" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamakeeeeeeeeen&show_icons=true&locale=en&layout=compact" alt="yamakeeeeeeeeen" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamakeeeeeeeeen&show_icons=true&locale=en" alt="yamakeeeeeeeeen" /></p>
