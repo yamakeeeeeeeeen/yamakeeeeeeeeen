@@ -22,4 +22,4 @@
 </a>
 </p>
 
-<p align="center" style="margin-top: 20px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamakeeeeeeeeen&show_icons=true&locale=en" alt="yamakeeeeeeeeen" /></p>
+<span align="center" style="margin-top: 20px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamakeeeeeeeeen&show_icons=true&locale=en" alt="yamakeeeeeeeeen" /></span>
