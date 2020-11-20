@@ -21,5 +21,4 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
 </a>
 </p>
-
-<a style="margin-top: 20px; text-align: center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamakeeeeeeeeen&show_icons=true&locale=en" alt="yamakeeeeeeeeen" /></a>
+<a align="center" style="margin-top: 20px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamakeeeeeeeeen&show_icons=true&locale=en" alt="yamakeeeeeeeeen" /></a>
