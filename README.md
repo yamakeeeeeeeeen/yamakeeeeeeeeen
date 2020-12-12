@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yamakeeeeeeeeen</h1>
 
-<p align="center">🌱 I’m currently learning <b>NEXT.js, Typescript, GraphQL</b></p>
+<p align="center">🌱 I like <b>NEXT.js, Typescript</b> and learning <b>GraphQL</b></p>
 <p align="center">📫 How to reach me <b>yamakeeeeeeeeen@gmail.com</b></p>
 
 <h3 align="center">Languages and Tools:</h3>
